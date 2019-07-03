@@ -97,7 +97,7 @@ body{
 /*===========Banner ========*/
 .banner{
 	height: 612px; /*=====須從真正圖片上方起算，因爲圖層被header蓋住=====*/
-	background: url(image/banner.png);
+	background: url(https://github.com/yuuttoo/exoticar.github.io/blob/master/image/banner.png?raw=true);
 	background-size: cover;
 	padding-top: 230px;/*========padding不會讓頁面留白，margin會========*/
 }
